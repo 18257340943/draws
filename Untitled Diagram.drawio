@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-02T08:49:07.679Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.62" etag="2BB6V9NKsTcNV5MBRVEA" version="15.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-02T08:50:47.914Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.62" etag="deBVJvaBuMg3pm-SciZr" version="15.6.5" type="github">
   <diagram id="Xpdo446xeNEyikhnvSWz" name="Page-1">
     <mxGraphModel dx="1569" dy="407" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -51,6 +51,11 @@
         <mxCell id="7rKRXa0emyEfOEcInCLG-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=default;fontColor=default;strokeColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="7rKRXa0emyEfOEcInCLG-18" target="7rKRXa0emyEfOEcInCLG-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="1rehVb3I6I_Pl5jy723j-11" value="根据type进行匹配" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=default;" vertex="1" connectable="0" parent="7rKRXa0emyEfOEcInCLG-35">
+          <mxGeometry x="-0.8383" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="7rKRXa0emyEfOEcInCLG-18" value="&lt;span style=&quot;font-family: &amp;quot;helvetica neue&amp;quot; ; font-size: 13px&quot;&gt;createNode&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontColor=default;strokeColor=default;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="245" y="220" width="80" height="80" as="geometry" />
         </mxCell>
@@ -96,6 +101,9 @@
         </mxCell>
         <mxCell id="1rehVb3I6I_Pl5jy723j-5" value="node&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="170" y="650" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1rehVb3I6I_Pl5jy723j-9" value="最底层文本信息，无type" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="385" y="370" width="150" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
